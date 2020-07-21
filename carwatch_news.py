@@ -41,7 +41,7 @@ message2 = '\n' + head_news[2] + '\n' + head_link[2]
 message3 = '\n' + head_news[3] + '\n' + head_link[3]
 message4 = '\n' + head_news[4] + '\n' + head_link[4]
            
-token = 'o83VHkmfBS0k6HWakuOcyEXbBsy4YUoqUwyoJzo26vL'
+token = '*****'
 
 lineNotifyMessage(token, message0)
 lineNotifyMessage(token, message1)
